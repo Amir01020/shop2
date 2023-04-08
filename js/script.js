@@ -4,7 +4,7 @@ let forma = doc.querySelector('form')
 let katalog = doc.querySelector('.katalog')
 let elements = doc.querySelector('.elements')
 let arr = []
-
+ 
 
 
 let puls = (img, name, mani, skid, coment) => {
