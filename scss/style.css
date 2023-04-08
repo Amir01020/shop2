@@ -1,0 +1,336 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  z-index: 1;
+}
+
+#mane {
+  font-family: "Ubuntu", sans-serif;
+  background-color: #000;
+  color: #fff;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+  padding: 0 20px;
+}
+form label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 42px;
+  border: 2px solid #fff;
+  border-radius: 12px;
+  padding: 0 10px;
+  cursor: pointer;
+}
+form label:nth-child(2) {
+  padding: 0;
+  width: 60%;
+  overflow: hidden;
+}
+form label:nth-child(2) input {
+  width: 90%;
+  color: #fff;
+  background-color: transparent;
+  outline: none;
+  border: 0;
+  height: 100%;
+  padding: 0 10px;
+  font-size: 18px;
+}
+form label:nth-child(2) button {
+  height: 100%;
+  width: 10%;
+  background-color: transparent;
+  border-left: 2px solid #fff;
+  color: #fff;
+  cursor: pointer;
+}
+form label a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  gap: 10px;
+}
+form label:hover {
+  border: 1px solid rgb(255, 0, 221);
+  transition: 0.5s;
+}
+form label:hover button {
+  color: rgb(255, 0, 221);
+  border-left: 1px solid rgb(255, 0, 221);
+}
+form label:hover a {
+  color: rgb(255, 0, 221);
+}
+form .manu {
+  position: fixed;
+  padding-top: 20px;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 100%;
+  background: linear-gradient(0deg, rgb(107, 34, 195) 0%, rgb(230, 45, 253) 76%);
+  border-radius: 12px 0 0 0;
+  border: 2px solid #fff;
+}
+form .manu .icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  border-bottom: 1px solid #fff;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+form .manu .icon img {
+  width: 40px;
+}
+form .manu a {
+  color: #fff;
+  text-decoration: none;
+  text-align: right;
+}
+form .manu li {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  margin: 20px 10px 0 0;
+  padding-top: 5px;
+  border-bottom: 1px solid #fff;
+}
+form .manu li:hover {
+  color: blue;
+  transition: 0.5s;
+}
+form .manu li:hover a {
+  color: blue;
+}
+form .pasive {
+  transform: translateY(-100%);
+  transition: 1s;
+}
+form .active {
+  transform: translateY(0%);
+  transition: 1s;
+}
+
+.content {
+  margin-top: 20px;
+  border-top: #fff 2px solid;
+}
+.content .cont {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.content .cont .katalog {
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
+.content .cont .katalog button {
+  border: 2px solid #fff;
+  border-bottom: 0;
+  font-size: 25px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  background-color: transparent;
+  transition: 0.5s;
+  border-radius: 12px;
+}
+.content .cont .katalog button:hover {
+  color: rgb(230, 28, 230);
+  border: 2px solid rgb(230, 28, 230);
+  border-bottom: 0;
+}
+.content .cont .elements {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding-top: 40px;
+}
+.content .cont .elements .bloc {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 300px;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 0 20px #fff;
+  min-height: 400px;
+  background-color: #fff;
+  color: #000;
+}
+.content .cont .elements .bloc .img {
+  width: 100%;
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.content .cont .elements .bloc .img img {
+  width: 80%;
+}
+.content .cont .elements .bloc h1 {
+  font-size: 50px;
+  margin-bottom: 5px;
+}
+.content .cont .elements .bloc .skid {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 20px;
+  margin-bottom: 5px;
+}
+.content .cont .elements .bloc .skid h2:nth-child(2) {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+.content .cont .elements .bloc .skid p {
+  opacity: 1;
+  display: block;
+  padding: 3px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #000;
+}
+.content .cont .elements .bloc p {
+  margin-bottom: 5px;
+  opacity: 0.5;
+}
+.content .cont .elements .bloc .text {
+  padding: 0 10px 10px;
+}
+.content .cont .elements .bloc button {
+  width: 100%;
+  height: 40px;
+  margin-top: 10px;
+  border-radius: 12px;
+  border: 0;
+  color: #fff;
+  font-size: 18px;
+  box-shadow: inset 0 0 5px #fff;
+  background-color: #000;
+  cursor: pointer;
+}
+
+.modal {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  display: none;
+  background-color: rgba(0, 0, 0, 0.481);
+}
+.modal .box {
+  color: #000;
+  width: 60%;
+  height: 60%;
+  margin: 10% auto;
+  position: relative;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 10px;
+  transform: translateY(-200%) rotateX(90deg);
+  opacity: 0;
+}
+.modal .box .close {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 30px;
+  cursor: pointer;
+  color: #000;
+}
+.modal .box .img {
+  width: 40%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal .box .img img {
+  width: 100%;
+}
+.modal .box .text {
+  max-width: 60%;
+}
+.modal .box .text .name {
+  font-size: 40px;
+}
+.modal .box .text .inps {
+  margin: 15px 0 10px 40px;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.modal .box .text .inps span {
+  font-size: 30px;
+}
+.modal .box .text .inps h3 {
+  font-size: 25px;
+  display: block;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+}
+.modal .box .text p {
+  margin-bottom: 10px;
+  font-size: 18px;
+  opacity: 0.5;
+}
+.modal .box .text button {
+  margin-top: 10px;
+  width: 50%;
+  height: 40px;
+  border-radius: 12px;
+  background-color: #000;
+  border: 0;
+  box-shadow: inset 0 0 10px #fff;
+  color: #fff;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.modal .box .text button:hover {
+  transition: 0.5s;
+  background: linear-gradient(0deg, rgb(107, 34, 195) 0%, rgb(230, 45, 253) 76%);
+}
+
+.acti {
+  transition: 0.5s;
+  z-index: 3;
+  display: flex;
+}
+
+.acsus {
+  transition: 1s;
+  opacity: 1;
+  transform: translateY(0%) rotateX(0deg) !important;
+}/*# sourceMappingURL=style.css.map */

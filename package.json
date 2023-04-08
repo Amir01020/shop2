@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "scripts": {
+    "server":"json-server -w server.json -p 4000"
+  }
+}

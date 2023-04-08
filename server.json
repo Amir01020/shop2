@@ -1,0 +1,518 @@
+{
+    "shops":[
+        {
+            "id":"",
+            "name":"iphone 11 pro",
+            "cllas":"Смартфоны",
+            "mani":"2322222",
+            "skid":"10",
+            "coment":"Айфон 11 белый 128 ГБ диагональ дисплея 6,1 ″ — удобный широкоформатный экран;",
+            "img":"img/iphone1.jpg"
+        },{
+            "id":"",
+            "name":"iphone 12 pro max",
+            "cllas":"Смартфоны",
+            "mani":"22444",
+            "skid":"10",
+            "coment":"При этом поставки дисплеев для iPhone 14 Pro Max почти всё время  зачастую ниже, чем для iPhone 14 Pro. Не исключено, что",
+            "img":"img/iphone2.jpg"
+        },{
+            "id":"",
+            "name":"ноутбуки1",
+            "cllas":"Ноутбуки",
+            "mani":"200038",
+            "skid":"10",
+            "coment":"Core™ i7-1165G7/16GB DDR4/512Gb NVMe M.2 SSD/15.6 FullHD IPS 1920x1080",  
+            "img":"img/ноутбуки1.jpg"
+        },{
+            "id":"",
+            "name":"ноутбуки2",
+            "cllas":"Ноутбуки",
+            "mani":"12234443",
+            "skid":"10",
+            "coment":"Core™ i7-1165G7/16GB DDR4/512Gb NVMe M.2 SSD/15.6 FullHD IPS 1920x1080",
+            "img":"img/ноутбуки2.jpg"
+        },{
+            "id":"",
+            "name":"наушники1",
+            "cllas":"Гарнитура",
+            "mani":"200300",
+            "skid":"10",
+            "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+            "img":"img/наушники1.jpg"
+            }
+            ,{
+                "id":"",
+                "name":"наушники2",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/наушники2.jpg"
+            },{
+                "id":"",
+                "name":"микрафон",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/микрафон.png"
+            },{
+                "id":"",
+                "name":"кресло",
+                "cllas":"Мебель",
+                "mani":"2242200",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/кресло.jpg"
+            },{
+                "id":"",
+                "name":"кресло1",
+                "cllas":"Мебель",
+                "mani":"224006",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/кресло1.jpg"
+            },{
+                "id":"",
+                "name":"игрушка1",
+                "cllas":"Игрушки",
+                "mani":"20000",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/игрушка1.jpg"
+            },{
+                "id":"4333344",
+                "name":"игрушка2",
+                "cllas":"Игрушки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/игрушка2.jpg"
+            },{
+                "id":"",
+                "name":"",
+                "cllas":"Телевизоры",
+                "mani":"300040",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/телевизор1.jpg"
+            },{
+                "id":"",
+                "name":"телевизор2",
+                "cllas":"Телевизоры",
+                "mani":"300040",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/телевизор2.jpg"
+            },{
+                "id":"",
+                "name":"приставка1",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставкак1.jpg"
+            },{
+                "id":"",
+                "name":"приставка2",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставка2.jpg"
+            },{
+                "id":"",
+                "name":"приставка3",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставка3.jpg"
+            },{
+                "id":"",
+                "name":"iphone 11 pro",
+                "cllas":"Смартфоны",
+                "mani":"",
+                "skid":"10",
+                "coment":"Айфон 11 белый 128 ГБ диагональ дисплея 6,1 ″ — удобный широкоформатный экран;",
+                "img":"img/iphone1.jpg"
+            },{
+                "id":"",
+                "name":"iphone 12 pro max",
+                "cllas":"Смартфоны",
+                "mani":"",
+                "skid":"10",
+                "coment":"При этом поставки дисплеев для iPhone 14 Pro Max почти всё время  зачастую ниже, чем для iPhone 14 Pro. Не исключено, что",
+                "img":"img/iphone2.jpg"
+            },{
+                "id":"",
+                "name":"ноутбуки1",
+                "cllas":"Ноутбуки",
+                "mani":"200038",
+                "skid":"10",
+                "coment":"Core™ i7-1165G7/16GB DDR4/512Gb NVMe M.2 SSD/15.6 FullHD IPS 1920x1080",  
+                "img":"img/ноутбуки1.jpg"
+            },{
+                "id":"",
+                "name":"ноутбуки2",
+                "cllas":"Ноутбуки",
+                "mani":"12234443",
+                "skid":"10",
+                "coment":"Core™ i7-1165G7/16GB DDR4/512Gb NVMe M.2 SSD/15.6 FullHD IPS 1920x1080",
+                "img":"img/ноутбуки2.jpg"
+            },{
+                "id":"",
+                "name":"наушники1",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/наушники1.jpg"
+            },{
+                "id":"",
+                "name":"наушники2",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/наушники2.jpg"
+            },{
+                "id":"",
+                "name":"микрафон",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/микрафон.png"
+            },{
+                "id":"",
+                "name":"кресло",
+                "cllas":"Мебель",
+                "mani":"2242200",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/кресло.jpg"
+            },{
+                "id":"",
+                "name":"кресло1",
+                "cllas":"Мебель",
+                "mani":"224006",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/кресло1.jpg"
+            },{
+                "id":"",
+                "name":"игрушка1",
+                "cllas":"Игрушки",
+                "mani":"20000",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/игрушка1.jpg"
+            },{
+                "id":"4333344",
+                "name":"игрушка2",
+                "cllas":"Игрушки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/игрушка2.jpg"
+            },{
+                "id":"",
+                "name":"телевизор1",
+                "cllas":"Телевизоры",
+                "mani":"300040",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/телевизор1.jpg"
+            },{
+                "id":"",
+                "name":"телевизор2",
+                "cllas":"Телевизоры",
+                "mani":"300040",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/телевизор2.jpg"
+            },{
+                "id":"",
+                "name":"приставка1",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставкак1.jpg"
+            },{
+                "id":"",
+                "name":"приставка2",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставка2.jpg"
+            },{
+                "id":"",
+                "name":"приставка3",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставка3.jpg"
+            },{
+                "id":"",
+                "name":"iphone 11 pro",
+                "cllas":"Смартфоны",
+                "mani":"",
+                "skid":"10",
+                "coment":"Айфон 11 белый 128 ГБ диагональ дисплея 6,1 ″ — удобный широкоформатный экран;",
+                "img":"img/iphone1.jpg"
+            },{
+                "id":"",
+                "name":"iphone 12 pro max",
+                "cllas":"Смартфоны",
+                "mani":"",
+                "skid":"10",
+                "coment":"При этом поставки дисплеев для iPhone 14 Pro Max почти всё время  зачастую ниже, чем для iPhone 14 Pro. Не исключено, что",
+                "img":"img/iphone2.jpg"
+            },{
+                "id":"",
+                "name":"ноутбуки1",
+                "cllas":"Ноутбуки",
+                "mani":"200038",
+                "skid":"10",
+                "coment":"Core™ i7-1165G7/16GB DDR4/512Gb NVMe M.2 SSD/15.6 FullHD IPS 1920x1080",  
+                "img":"img/ноутбуки1.jpg"
+            },{
+                "id":"",
+                "name":"ноутбуки2",
+                "cllas":"Ноутбуки",
+                "mani":"12234443",
+                "skid":"10",
+                "coment":"Core™ i7-1165G7/16GB DDR4/512Gb NVMe M.2 SSD/15.6 FullHD IPS 1920x1080",
+                "img":"img/ноутбуки2.jpg"
+            },{
+                "id":"",
+                "name":"наушники1",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/наушники1.jpg"
+            },{
+                "id":"",
+                "name":"наушники2",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/наушники2.jpg"
+            },{
+                "id":"",
+                "name":"микрафон",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/микрафон.png"
+            },{
+                "id":"",
+                "name":"кресло",
+                "cllas":"Мебель",
+                "mani":"2242200",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/кресло.jpg"
+            },{
+                "id":"",
+                "name":"кресло1",
+                "cllas":"Мебель",
+                "mani":"224006",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/кресло1.jpg"
+            },{
+                "id":"",
+                "name":"игрушка1",
+                "cllas":"Игрушки",
+                "mani":"20000",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/игрушка1.jpg"
+            },{
+                "id":"4333344",
+                "name":"игрушка2",
+                "cllas":"Игрушки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/игрушка2.jpg"
+            },{
+                "id":"",
+                "name":"телевизор1",
+                "cllas":"Телевизоры",
+                "mani":"300040",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/телевизор1.jpg"
+            },{
+                "id":"",
+                "name":"телевизор2",
+                "cllas":"Телевизоры",
+                "mani":"300040",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/телевизор2.jpg"
+            },{
+                "id":"",
+                "name":"приставка1",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставкак1.jpg"
+            },{
+                "id":"",
+                "name":"приставка2",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставка2.jpg"
+            },{
+                "id":"",
+                "name":"приставка3",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставка3.jpg"
+            },{
+                "id":"",
+                "name":"iphone 11 pro",
+                "cllas":"Смартфоны",
+                "mani":"",
+                "skid":"10",
+                "coment":"Айфон 11 белый 128 ГБ диагональ дисплея 6,1 ″ — удобный широкоформатный экран;",
+                "img":"img/iphone1.jpg"
+            },{
+                "id":"",
+                "name":"iphone 12 pro max",
+                "cllas":"Смартфоны",
+                "mani":"",
+                "skid":"10",
+                "coment":"При этом поставки дисплеев для iPhone 14 Pro Max почти всё время  зачастую ниже, чем для iPhone 14 Pro. Не исключено, что",
+                "img":"img/iphone2.jpg"
+            },{
+                "id":"",
+                "name":"ноутбуки1",
+                "cllas":"Ноутбуки",
+                "mani":"200038",
+                "skid":"10",
+                "coment":"Core™ i7-1165G7/16GB DDR4/512Gb NVMe M.2 SSD/15.6 FullHD IPS 1920x1080",  
+                "img":"img/ноутбуки1.jpg"
+            },{
+                "id":"",
+                "name":"ноутбуки2",
+                "cllas":"Ноутбуки",
+                "mani":"12234443",
+                "skid":"10",
+                "coment":"Core™ i7-1165G7/16GB DDR4/512Gb NVMe M.2 SSD/15.6 FullHD IPS 1920x1080",
+                "img":"img/ноутбуки2.jpg"
+            },{
+                "id":"",
+                "name":"наушники1",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/наушники1.jpg"
+            },{
+                "id":"",
+                "name":"наушники2",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/наушники2.jpg"
+            },{
+                "id":"",
+                "name":"микрафон",
+                "cllas":"Гарнитура",
+                "mani":"200300",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/микрафон.png"
+            },{
+                "id":"",
+                "name":"кресло",
+                "cllas":"Мебель",
+                "mani":"2242200",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/кресло.jpg"
+            },{
+                "id":"",
+                "name":"кресло1",
+                "cllas":"Мебель",
+                "mani":"224006",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/кресло1.jpg"
+            },{
+                "id":"",
+                "name":"игрушка1",
+                "cllas":"Игрушки",
+                "mani":"20000",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/игрушка1.jpg"
+            },{
+                "id":"4333344",
+                "name":"игрушка2",
+                "cllas":"Игрушки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/игрушка2.jpg"
+            },{
+                "id":"",
+                "name":"телевизор1",
+                "cllas":"Телевизоры",
+                "mani":"300040",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/телевизор1.jpg"
+            },{
+                "id":"",
+                "name":"телевизор2",
+                "cllas":"Телевизоры",
+                "mani":"300040",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/телевизор2.jpg"
+            },{
+                "id":"",
+                "name":"приставка1",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставкак1.jpg"
+            },{
+                "id":"",
+                "name":"приставка2",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставка2.jpg"
+            },{
+                "id":"",
+                "name":"приставка3",
+                "cllas":"Приставки",
+                "mani":"",
+                "skid":"10",
+                "coment":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur unde impedit totam odit.",
+                "img":"img/приставка3.jpg"
+            }
+        ]
+}
